@@ -1,0 +1,1208 @@
+[
+  {
+    "turn_index": 1,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "llm_run": 1784661738.91431,
+      "llm_first_token": 1784661739.2955837,
+      "first_text_to_tts": 1784661740.000957,
+      "first_tts_audio": 1784661740.2884033,
+      "bot_started": 1784661740.2905607
+    }
+  },
+  {
+    "turn_index": 2,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.2913787
+    }
+  },
+  {
+    "turn_index": 3,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.2936597
+    }
+  },
+  {
+    "turn_index": 4,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.2944388
+    }
+  },
+  {
+    "turn_index": 5,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.294977
+    }
+  },
+  {
+    "turn_index": 6,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661740.295571,
+      "bot_started": 1784661740.296252
+    }
+  },
+  {
+    "turn_index": 7,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.2974727
+    }
+  },
+  {
+    "turn_index": 8,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661740.2980871,
+      "bot_started": 1784661740.3015745
+    }
+  },
+  {
+    "turn_index": 9,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.303145
+    }
+  },
+  {
+    "turn_index": 10,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.3054152
+    }
+  },
+  {
+    "turn_index": 11,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.3064497
+    }
+  },
+  {
+    "turn_index": 12,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.3070905
+    }
+  },
+  {
+    "turn_index": 13,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661740.3094594
+    }
+  },
+  {
+    "turn_index": 14,
+    "transcript": "\u0939\u093e\u0901, \u0938\u0939\u0940 \u0935\u0915\u094d\u0924 \u0939\u0948\u0964",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661740.3201704,
+      "vad_stop": 1784661752.3991628,
+      "stt_final": 1784661752.7071211,
+      "turn_stop": 1784661753.4223807,
+      "llm_first_token": 1784661753.421659,
+      "first_text_to_tts": 1784661754.3214371,
+      "bot_started": 1784661754.6834135
+    }
+  },
+  {
+    "turn_index": 15,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6843717
+    }
+  },
+  {
+    "turn_index": 16,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.686496
+    }
+  },
+  {
+    "turn_index": 17,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.687024
+    }
+  },
+  {
+    "turn_index": 18,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6875684
+    }
+  },
+  {
+    "turn_index": 19,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661754.6881864,
+      "bot_started": 1784661754.6881928
+    }
+  },
+  {
+    "turn_index": 20,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6892934
+    }
+  },
+  {
+    "turn_index": 21,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661754.6920295,
+      "bot_started": 1784661754.6920407
+    }
+  },
+  {
+    "turn_index": 22,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6927943
+    }
+  },
+  {
+    "turn_index": 23,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6952662
+    }
+  },
+  {
+    "turn_index": 24,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6964805
+    }
+  },
+  {
+    "turn_index": 25,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.6971579
+    }
+  },
+  {
+    "turn_index": 26,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661754.698307
+    }
+  },
+  {
+    "turn_index": 27,
+    "transcript": "\u0915\u094d\u092f\u093e \u0906\u092a \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u094b?",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661754.7105973,
+      "vad_stop": 1784661762.744029,
+      "stt_final": 1784661765.3312638,
+      "turn_stop": 1784661766.0316322,
+      "llm_first_token": 1784661766.0310225,
+      "first_text_to_tts": 1784661767.0117695,
+      "bot_started": 1784661767.7241812
+    }
+  },
+  {
+    "turn_index": 28,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7249732
+    }
+  },
+  {
+    "turn_index": 29,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7265787
+    }
+  },
+  {
+    "turn_index": 30,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7272384
+    }
+  },
+  {
+    "turn_index": 31,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7278655
+    }
+  },
+  {
+    "turn_index": 32,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661767.7285566,
+      "bot_started": 1784661767.7293608
+    }
+  },
+  {
+    "turn_index": 33,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.731304
+    }
+  },
+  {
+    "turn_index": 34,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661767.7322485,
+      "bot_started": 1784661767.7359223
+    }
+  },
+  {
+    "turn_index": 35,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7379122
+    }
+  },
+  {
+    "turn_index": 36,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7392821
+    }
+  },
+  {
+    "turn_index": 37,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.7407663
+    }
+  },
+  {
+    "turn_index": 38,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.741464
+    }
+  },
+  {
+    "turn_index": 39,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661767.742306
+    }
+  },
+  {
+    "turn_index": 40,
+    "transcript": "\u0915\u093f\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661767.7840607,
+      "vad_stop": 1784661778.7059803,
+      "stt_final": 1784661785.80251,
+      "turn_stop": 1784661787.8961918,
+      "llm_first_token": 1784661787.8954616,
+      "first_text_to_tts": 1784661789.2168787,
+      "bot_started": 1784661789.6408725
+    }
+  },
+  {
+    "turn_index": 41,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6416788
+    }
+  },
+  {
+    "turn_index": 42,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6431258
+    }
+  },
+  {
+    "turn_index": 43,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6437604
+    }
+  },
+  {
+    "turn_index": 44,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6443834
+    }
+  },
+  {
+    "turn_index": 45,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661789.6449056,
+      "bot_started": 1784661789.6454976
+    }
+  },
+  {
+    "turn_index": 46,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6466455
+    }
+  },
+  {
+    "turn_index": 47,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661789.6472273,
+      "bot_started": 1784661789.65075
+    }
+  },
+  {
+    "turn_index": 48,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.652118
+    }
+  },
+  {
+    "turn_index": 49,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6533506
+    }
+  },
+  {
+    "turn_index": 50,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6544938
+    }
+  },
+  {
+    "turn_index": 51,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.655463
+    }
+  },
+  {
+    "turn_index": 52,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661789.6566994
+    }
+  },
+  {
+    "turn_index": 53,
+    "transcript": "\u092e\u0947\u0930\u0947 \u092c\u093e\u0925\u0930\u0942\u092e \u092e\u0947\u0902\u0964",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661789.6857057,
+      "vad_stop": 1784661804.522515,
+      "stt_final": 1784661806.8364346,
+      "turn_stop": 1784661807.1535163,
+      "llm_first_token": 1784661807.1527562,
+      "first_text_to_tts": 1784661808.2838948,
+      "bot_started": 1784661808.6547084
+    }
+  },
+  {
+    "turn_index": 54,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.655424
+    }
+  },
+  {
+    "turn_index": 55,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6568575
+    }
+  },
+  {
+    "turn_index": 56,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6575365
+    }
+  },
+  {
+    "turn_index": 57,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6583707
+    }
+  },
+  {
+    "turn_index": 58,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661808.6591363,
+      "bot_started": 1784661808.6598346
+    }
+  },
+  {
+    "turn_index": 59,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6609578
+    }
+  },
+  {
+    "turn_index": 60,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661808.6616426,
+      "bot_started": 1784661808.6647775
+    }
+  },
+  {
+    "turn_index": 61,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.666338
+    }
+  },
+  {
+    "turn_index": 62,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6678977
+    }
+  },
+  {
+    "turn_index": 63,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6692688
+    }
+  },
+  {
+    "turn_index": 64,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6700733
+    }
+  },
+  {
+    "turn_index": 65,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661808.6712525
+    }
+  },
+  {
+    "turn_index": 66,
+    "transcript": "\u091c\u0932\u094d\u0926\u0940\u0964",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661808.711668,
+      "stt_final": 1784661820.9161973,
+      "vad_stop": 1784661820.6240628,
+      "turn_stop": 1784661821.650741,
+      "llm_first_token": 1784661821.649691,
+      "first_text_to_tts": 1784661823.0600805,
+      "bot_started": 1784661823.460553
+    }
+  },
+  {
+    "turn_index": 67,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4619565
+    }
+  },
+  {
+    "turn_index": 68,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.463506
+    }
+  },
+  {
+    "turn_index": 69,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4642992
+    }
+  },
+  {
+    "turn_index": 70,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4650216
+    }
+  },
+  {
+    "turn_index": 71,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661823.4656723,
+      "bot_started": 1784661823.466071
+    }
+  },
+  {
+    "turn_index": 72,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4673464
+    }
+  },
+  {
+    "turn_index": 73,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661823.4681506,
+      "bot_started": 1784661823.4705343
+    }
+  },
+  {
+    "turn_index": 74,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4718692
+    }
+  },
+  {
+    "turn_index": 75,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4737282
+    }
+  },
+  {
+    "turn_index": 76,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4749596
+    }
+  },
+  {
+    "turn_index": 77,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.4757192
+    }
+  },
+  {
+    "turn_index": 78,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661823.477332
+    }
+  },
+  {
+    "turn_index": 79,
+    "transcript": "\u091c\u0940 \u092c\u093f\u0932\u094d\u0915\u0941\u0932\u0964",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661823.4927676,
+      "vad_stop": 1784661830.2992861,
+      "stt_final": 1784661830.6641927,
+      "turn_stop": 1784661831.3252742,
+      "llm_first_token": 1784661831.3239915,
+      "first_text_to_tts": 1784661832.2573967,
+      "bot_started": 1784661832.94801
+    }
+  },
+  {
+    "turn_index": 80,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.948877
+    }
+  },
+  {
+    "turn_index": 81,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9505618
+    }
+  },
+  {
+    "turn_index": 82,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9513574
+    }
+  },
+  {
+    "turn_index": 83,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9520535
+    }
+  },
+  {
+    "turn_index": 84,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661832.95271,
+      "bot_started": 1784661832.9531798
+    }
+  },
+  {
+    "turn_index": 85,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9543738
+    }
+  },
+  {
+    "turn_index": 86,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661832.95513,
+      "bot_started": 1784661832.9576201
+    }
+  },
+  {
+    "turn_index": 87,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9594505
+    }
+  },
+  {
+    "turn_index": 88,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.961904
+    }
+  },
+  {
+    "turn_index": 89,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.964423
+    }
+  },
+  {
+    "turn_index": 90,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9652667
+    }
+  },
+  {
+    "turn_index": 91,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661832.9671047
+    }
+  },
+  {
+    "turn_index": 92,
+    "transcript": "\u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092c\u093f\u0932\u094d\u0915\u0941\u0932\u0964",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661832.9679816,
+      "vad_stop": 1784661840.237054,
+      "stt_final": 1784661842.9021354,
+      "turn_stop": 1784661843.608317,
+      "llm_first_token": 1784661843.607445,
+      "first_text_to_tts": 1784661845.4859636,
+      "bot_started": 1784661845.9120026
+    }
+  },
+  {
+    "turn_index": 93,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.9136596
+    }
+  },
+  {
+    "turn_index": 94,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.9162261
+    }
+  },
+  {
+    "turn_index": 95,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.9174595
+    }
+  },
+  {
+    "turn_index": 96,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.918563
+    }
+  },
+  {
+    "turn_index": 97,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661845.919327,
+      "bot_started": 1784661845.9198186
+    }
+  },
+  {
+    "turn_index": 98,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.9211373
+    }
+  },
+  {
+    "turn_index": 99,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "first_tts_audio": 1784661845.922034,
+      "bot_started": 1784661845.9242492
+    }
+  },
+  {
+    "turn_index": 100,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.9256704
+    }
+  },
+  {
+    "turn_index": 101,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.926923
+    }
+  },
+  {
+    "turn_index": 102,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.928066
+    }
+  },
+  {
+    "turn_index": 103,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.928789
+    }
+  },
+  {
+    "turn_index": 104,
+    "transcript": "",
+    "deterministic_path": false,
+    "tool_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "timestamps": {
+      "bot_started": 1784661845.930457
+    }
+  }
+]

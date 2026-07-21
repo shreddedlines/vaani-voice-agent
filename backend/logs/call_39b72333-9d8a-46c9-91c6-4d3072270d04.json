@@ -1,0 +1,362 @@
+{
+  "call_id": "39b72333-9d8a-46c9-91c6-4d3072270d04",
+  "call_start_utc": 1784648349.6046305,
+  "call_duration_s": 125.98,
+  "user_turn_count": 3,
+  "llm_generation_count": 4,
+  "generations_per_turn": 1.33,
+  "deterministic_extractions_successful": 1,
+  "llm_fallbacks": 9,
+  "summary_ms": {
+    "stt": [
+      0.0
+    ],
+    "llm_ttfb": [
+      0.0,
+      896.3,
+      679.7,
+      614.1
+    ],
+    "llm_total": [
+      0.0,
+      948.3,
+      747.9,
+      631.5,
+      556.0
+    ],
+    "tts": [
+      0.0,
+      0.0,
+      0.0,
+      0.9,
+      0.5,
+      0.4,
+      283.4,
+      508.9,
+      0.6,
+      1.5,
+      1509.8,
+      0.5,
+      356.9,
+      932.4,
+      0.5,
+      834.0
+    ]
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784648403.7199707
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784648414.501205
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.01,
+      "ts": 1784648438.3127286
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.03,
+      "ts": 1784648451.5900948
+    },
+    {
+      "name": "book_meeting",
+      "latency_ms": 0.01,
+      "ts": 1784648451.5906463
+    },
+    {
+      "name": "end_call",
+      "latency_ms": 0.0,
+      "ts": 1784648452.2029555
+    },
+    {
+      "name": "end_call",
+      "latency_ms": 0.0,
+      "ts": 1784648467.694373
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": [
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.7522082
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.7523894
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.7525418
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.752679
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.75277
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784648350.7528622
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 896.3,
+      "ts": 1784648351.688753
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648351.698766
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648351.6987696
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 11.9,
+      "ts": 1784648351.7069645
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 47000,
+      "ts": 1784648351.706986
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.9,
+      "ts": 1784648351.7069948
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.2,
+      "ts": 1784648351.7076142
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 49000,
+      "ts": 1784648351.7076197
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.5,
+      "ts": 1784648351.7076252
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 948.3,
+      "ts": 1784648351.7077527
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 7.6,
+      "ts": 1784648351.7200243
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 36000,
+      "ts": 1784648351.720029
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.4,
+      "ts": 1784648351.7200325
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 283.4,
+      "ts": 1784648351.9858403
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 508.9,
+      "ts": 1784648364.2543128
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 679.7,
+      "ts": 1784648365.9578109
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 12.7,
+      "ts": 1784648365.9725573
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 7000,
+      "ts": 1784648365.9725654
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.6,
+      "ts": 1784648365.9725714
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648366.0244503
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 747.9,
+      "ts": 1784648366.0263946
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 46.1,
+      "ts": 1784648366.0312526
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 1.5,
+      "ts": 1784648366.0312579
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 1509.8,
+      "ts": 1784648367.481781
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 614.1,
+      "ts": 1784648378.5846453
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.5,
+      "ts": 1784648378.6250677
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 9.3,
+      "ts": 1784648378.6416829
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648378.6506026
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 14.2,
+      "ts": 1784648378.658004
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 356.9,
+      "ts": 1784648378.9820356
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648382.1861064
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648382.1861103
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 932.4,
+      "ts": 1784648382.6275644
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 631.5,
+      "ts": 1784648404.3601363
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 44.4,
+      "ts": 1784648404.365014
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 71000,
+      "ts": 1784648404.3650186
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.5,
+      "ts": 1784648404.3650217
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784648414.4979818
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 834.0,
+      "ts": 1784648414.9474695
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 556.0,
+      "ts": 1784648452.7674086
+    }
+  ]
+}

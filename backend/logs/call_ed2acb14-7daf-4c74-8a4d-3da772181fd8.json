@@ -1,0 +1,53 @@
+{
+  "call_id": "ed2acb14-7daf-4c74-8a4d-3da772181fd8",
+  "call_start_utc": 1784611362.5900881,
+  "call_duration_s": 92.23,
+  "user_turn_count": 0,
+  "llm_generation_count": 0,
+  "generations_per_turn": 0.0,
+  "summary_ms": {
+    "stt": [],
+    "llm_ttfb": [],
+    "llm_total": [],
+    "tts": []
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.04,
+      "ts": 1784611398.0886827
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784611408.0599966
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784611419.2404172
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784611428.2568464
+    },
+    {
+      "name": "book_meeting",
+      "latency_ms": 0.01,
+      "ts": 1784611428.2579565
+    },
+    {
+      "name": "book_meeting",
+      "latency_ms": 0.05,
+      "ts": 1784611439.8436003
+    },
+    {
+      "name": "end_call",
+      "latency_ms": 0.01,
+      "ts": 1784611440.4375827
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": []
+}

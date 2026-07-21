@@ -1,0 +1,15 @@
+# Web server
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Telephony
+twilio
+
+# Voice pipeline (Pipecat + the providers we use)
+pipecat-ai[sarvam,groq,silero]
+websockets
+
+# LLM: Groq (live conversation via Pipecat), Gemini (post-call extraction only)
+google-genai

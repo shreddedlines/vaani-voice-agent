@@ -1,0 +1,391 @@
+{
+  "call_id": "7dd541b7-3049-4679-a274-a98a1591b1d8",
+  "call_start_utc": 1784663064.337531,
+  "call_duration_s": 136.24,
+  "user_turn_count": 3,
+  "llm_generation_count": 5,
+  "generations_per_turn": 1.67,
+  "redundant_tool_calls": 2,
+  "deterministic_extractions_successful": 1,
+  "llm_fallbacks": 13,
+  "summary_ms": {
+    "stt": [
+      0.0,
+      4.8,
+      5.7,
+      2.2,
+      2.0
+    ],
+    "llm_ttfb": [
+      0.0,
+      1087.3,
+      504.1,
+      393.4,
+      465.6
+    ],
+    "llm_total": [
+      0.0,
+      1201.0,
+      513.0,
+      460.3,
+      447.3
+    ],
+    "tts": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      1.0,
+      283.6,
+      3.0,
+      474.5,
+      0.6,
+      360.6,
+      0.6,
+      469.8,
+      366.0
+    ]
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.05,
+      "ts": 1784663070.4860682
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.01,
+      "ts": 1784663171.1642134
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.01,
+      "ts": 1784663171.1649878
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.03,
+      "ts": 1784663179.3342373
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784663189.5015538
+    },
+    {
+      "name": "update_state",
+      "latency_ms": 0.01,
+      "ts": 1784663189.970932
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": [
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.6585453
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.6591392
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.6595132
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.6598947
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.6602497
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784663065.660662
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 1087.3,
+      "ts": 1784663066.831894
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663066.8607523
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663066.8607774
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 37.9,
+      "ts": 1784663066.8811724
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 47000,
+      "ts": 1784663066.8811853
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 1.0,
+      "ts": 1784663066.8811948
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.2,
+      "ts": 1784663066.8815913
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 49000,
+      "ts": 1784663066.8816047
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.5,
+      "ts": 1784663066.8816164
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 1201.0,
+      "ts": 1784663066.881941
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 18.4,
+      "ts": 1784663066.909878
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 36000,
+      "ts": 1784663066.909885
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 1.0,
+      "ts": 1784663066.9098885
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 283.6,
+      "ts": 1784663067.156011
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 4.8,
+      "ts": 1784663068.6454997
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 504.1,
+      "ts": 1784663070.4775908
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663070.4778903
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663070.4779081
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 513.0,
+      "ts": 1784663070.4832215
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 393.4,
+      "ts": 1784663070.9086063
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 9.9,
+      "ts": 1784663070.9278889
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 7000,
+      "ts": 1784663070.927903
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 3.0,
+      "ts": 1784663070.9279132
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 474.5,
+      "ts": 1784663070.9398253
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663070.9702427
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 460.3,
+      "ts": 1784663070.9765558
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 32.1,
+      "ts": 1784663070.9797459
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.6,
+      "ts": 1784663070.9797592
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 360.6,
+      "ts": 1784663071.2832325
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 5.7,
+      "ts": 1784663074.426032
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 21000,
+      "ts": 1784663077.4170372
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.6,
+      "ts": 1784663077.4170527
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663077.4173095
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663077.4173152
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 447.3,
+      "ts": 1784663077.428905
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 469.8,
+      "ts": 1784663077.949798
+    },
+    {
+      "type": "TextAggregationMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 15.6,
+      "ts": 1784663086.2495053
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663086.2886531
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 55000,
+      "ts": 1784663086.2936172
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 465.6,
+      "ts": 1784663097.2507124
+    },
+    {
+      "type": "LLMUsageMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0,
+      "ts": 1784663097.2660556
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 2.2,
+      "ts": 1784663098.7809966
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 366.0,
+      "ts": 1784663105.707765
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 2.0,
+      "ts": 1784663111.5605578
+    },
+    {
+      "type": "TTSUsageMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 36000,
+      "ts": 1784663115.3103156
+    }
+  ]
+}

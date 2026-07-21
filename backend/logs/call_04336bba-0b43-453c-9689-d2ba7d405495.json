@@ -1,0 +1,23 @@
+{
+  "call_id": "04336bba-0b43-453c-9689-d2ba7d405495",
+  "call_start_utc": 1784595622.1646104,
+  "call_duration_s": 56.81,
+  "user_turn_count": 0,
+  "llm_generation_count": 0,
+  "generations_per_turn": 0.0,
+  "summary_ms": {
+    "stt": [],
+    "llm_ttfb": [],
+    "llm_total": [],
+    "tts": []
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.01,
+      "ts": 1784595634.582699
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": []
+}

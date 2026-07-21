@@ -1,0 +1,66 @@
+{
+  "call_id": "49906f91-196e-40fc-986c-607ed78122e8",
+  "call_start_utc": 1784659485.7407918,
+  "call_duration_s": 56.18,
+  "user_turn_count": 0,
+  "llm_generation_count": 1,
+  "generations_per_turn": 1.0,
+  "deterministic_extractions_successful": 0,
+  "llm_fallbacks": 0,
+  "summary_ms": {
+    "stt": [
+      0.0
+    ],
+    "llm_ttfb": [
+      0.0
+    ],
+    "llm_total": [
+      0.0
+    ],
+    "tts": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "tool_executions": [],
+  "token_usages": [],
+  "pipecat_metrics_raw": [
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.9977455
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamSTTService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.9979627
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.9981034
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "GroqLLMService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.9982517
+    },
+    {
+      "type": "TTFBMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.9983473
+    },
+    {
+      "type": "ProcessingMetricsData",
+      "processor": "SarvamTTSService#0",
+      "value_ms": 0.0,
+      "ts": 1784659486.998463
+    }
+  ]
+}

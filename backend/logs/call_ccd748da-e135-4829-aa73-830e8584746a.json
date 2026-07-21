@@ -1,0 +1,23 @@
+{
+  "call_id": "ccd748da-e135-4829-aa73-830e8584746a",
+  "call_start_utc": 1784550181.4151413,
+  "call_duration_s": 106.32,
+  "user_turn_count": 0,
+  "llm_generation_count": 0,
+  "generations_per_turn": 0.0,
+  "summary_ms": {
+    "stt": [],
+    "llm_ttfb": [],
+    "llm_total": [],
+    "tts": []
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784550275.0557008
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": []
+}

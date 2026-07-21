@@ -1,0 +1,28 @@
+{
+  "call_id": "2bbab9fd-cc4a-4614-899a-cd687afa7559",
+  "call_start_utc": 1784595845.029622,
+  "call_duration_s": 43.18,
+  "user_turn_count": 0,
+  "llm_generation_count": 0,
+  "generations_per_turn": 0.0,
+  "summary_ms": {
+    "stt": [],
+    "llm_ttfb": [],
+    "llm_total": [],
+    "tts": []
+  },
+  "tool_executions": [
+    {
+      "name": "update_state",
+      "latency_ms": 0.02,
+      "ts": 1784595870.9019885
+    },
+    {
+      "name": "mark_not_interested",
+      "latency_ms": 0.01,
+      "ts": 1784595878.83818
+    }
+  ],
+  "token_usages": [],
+  "pipecat_metrics_raw": []
+}

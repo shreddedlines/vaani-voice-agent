@@ -1,0 +1,17 @@
+{
+  "call_id": "c46b2cb0-c016-450b-b0e1-486236f25d8d",
+  "call_start_utc": 1784580754.624157,
+  "call_duration_s": 75.87,
+  "user_turn_count": 0,
+  "llm_generation_count": 0,
+  "generations_per_turn": 0.0,
+  "summary_ms": {
+    "stt": [],
+    "llm_ttfb": [],
+    "llm_total": [],
+    "tts": []
+  },
+  "tool_executions": [],
+  "token_usages": [],
+  "pipecat_metrics_raw": []
+}
