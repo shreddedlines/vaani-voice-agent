@@ -3,12 +3,21 @@
 ## Overview
 Vaani is a real-time AI voice platform for building outbound conversational agents over traditional phone networks. It combines streaming speech recognition, large language models, deterministic conversation management, and speech synthesis into a low-latency voice pipeline capable of handling interruptions, qualifying leads, and automating customer conversations.
 
+### Key Capabilities
+- Real-time outbound AI voice conversations
+- Streaming speech recognition and synthesis
+- Smart interruption handling
+- Deterministic conversation management
+- Structured lead qualification
+- AI-powered post-call lead extraction
+- SQLite persistence
+- Performance and latency instrumentation
+
 ## Demo
 
-*(Add placeholder links or images here when available)*
-- **[Architecture Diagram Placeholder]**
-- **[Voice Call Demo GIF Placeholder]**
-- **[Lead Extraction Screenshot Placeholder]**
+A short walkthrough of the complete voice agent is available below.
+
+**Loom Demo:** <I'll add my Loom link here>
 
 ## Features
 
@@ -44,35 +53,6 @@ Vaani is a real-time AI voice platform for building outbound conversational agen
 ## System Architecture
 
 The architecture isolates the deterministic business logic from the generative LLM pipeline, ensuring predictable transitions and safety.
-
-```mermaid
-graph TD
-    A[Twilio Media Streams] <-->|Audio| B(FastAPI WebSocket)
-    B <-->|Frames| C{Pipecat Pipeline}
-    
-    subgraph Pipecat Pipeline
-    C1[Sarvam STT] --> C2[User Context Aggregator]
-    C2 --> C3[Pre-LLM Extractor]
-    C3 --> C4[Groq LLM Llama 3.3]
-    C4 --> C5[Sarvam TTS]
-    C5 --> C6[Call Lifecycle Processor]
-    end
-    
-    C --> C1
-    
-    subgraph Conversation Engine
-    M[ConversationManager]
-    S[CallState]
-    O[Objective Evaluator]
-    end
-    
-    C4 -- Tool Calls --> M
-    M --> S
-    M --> O
-    O -- Dynamic Context Updates --> C2
-    
-    S --> DB[(SQLite Database)]
-```
 
 ```text
 +-----------------------+       +-------------------------+       +-----------------------+
@@ -160,35 +140,17 @@ Post-call, the system processes the transcript to extract a structured JSON obje
 
 ```text
 vaani-voice-agent/
-├── backend/
-│   ├── main.py                     # FastAPI application and WebSocket entrypoint
-│   ├── voice/
-│   │   └── bot.py                  # Pipecat pipeline definition and lifecycle
-│   ├── conversation_manager.py     # Deterministic state machine and slot validation
-│   ├── state_store.py              # CallState and turn history definitions
-│   ├── objective.py                # Runtime goal evaluation and routing
-│   ├── agent_config.py             # Domain-specific settings and required slots
-│   ├── prompts.py                  # System personas and dynamic prompt builders
-│   ├── tools.py                    # LLM function-calling schema definitions
-│   ├── pre_llm_extractor.py        # Pipecat FrameProcessor for deterministic extraction
-│   ├── extraction.py               # Post-call LLM lead extraction pipeline
-│   ├── extractors.py               # Regex and heuristic slot extractors
-│   ├── db.py                       # SQLite database interface
-│   ├── perf_logger.py              # Turn-by-turn performance instrumentation
-│   ├── latency_observer.py         # Advanced frame-level latency tracking
-│   ├── scratch_latency_parser.py   # Script for analyzing output logs
-│   ├── analyze_latency.py          # Script for analyzing latency reports
-│   ├── requirements.txt            # Python dependencies
-│   ├── logs/                       # Structured performance JSON logs
-│   ├── prompts/                    # Directory for prompt template files
-│   ├── tests/                      # Unit and integration tests
-│   ├── test_e2e.py                 # E2E pipeline verification test
-│   ├── test_filler_injection.py    # Unit tests for injection logic
-│   ├── test_groq_direct.py         # Sandbox test for direct Groq interactions
-│   ├── test_pipeline.py            # Simple Pipecat pipeline test
-│   └── test_pre_llm.py             # Unit tests for pre-LLM deterministic extraction
-├── .env.example                    # Environment variable template
-└── README.md                       # Project documentation
+├── README.md
+├── frontend/
+└── backend/
+    ├── main.py
+    ├── conversation_manager.py
+    ├── extraction.py
+    ├── db.py
+    ├── voice/
+    ├── prompts/
+    ├── tests/
+    └── requirements.txt
 ```
 
 ## Installation
