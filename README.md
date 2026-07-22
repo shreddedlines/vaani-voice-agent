@@ -17,7 +17,7 @@ Vaani is a real-time AI voice platform for building outbound conversational agen
 
 A short walkthrough of the complete voice agent is available below.
 
-**Loom Demo:** <I'll add my Loom link here>
+**Demo Video:** <https://drive.google.com/file/d/1-g_DAOP7xzmCQkNU5wTAgtYYJDsGzNob/view?usp=sharing>
 
 ## Features
 
