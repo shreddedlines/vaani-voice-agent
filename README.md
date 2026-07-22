@@ -101,26 +101,15 @@ The architecture isolates the deterministic business logic from the generative L
 
 ## Conversation Flow
 
-```mermaid
-stateDiagram-v2
-    [*] --> Greeting
-    
-    Greeting --> CollectRequirements : User engages
-    Greeting --> NotInterested : User declines
-    
-    CollectRequirements --> CollectTimeline : Requirements satisfied
-    CollectRequirements --> FAQs : User asks question
-    FAQs --> CollectRequirements : Answered
-    
-    CollectTimeline --> ScheduleMeeting : Timeline provided
-    
-    ScheduleMeeting --> ConfirmDetails : Time suggested
-    
-    ConfirmDetails --> EndCall : Details confirmed
-    
-    NotInterested --> EndCall
-    EndCall --> [*]
-```
+1. Initiate an outbound call through Twilio Media Streams.
+2. Stream user speech to Sarvam STT for real-time transcription.
+3. Run deterministic pre-processing to extract structured information when possible.
+4. Send conversational context to the LLM for response generation.
+5. Update the conversation state using structured function calls.
+6. Convert the generated response to speech using Sarvam TTS.
+7. Continue the conversation until the objective is completed or the call ends.
+8. Reconstruct the transcript and perform AI-powered lead extraction.
+9. Persist transcripts and structured lead data in SQLite.
 
 ## Lead Extraction Example
 
